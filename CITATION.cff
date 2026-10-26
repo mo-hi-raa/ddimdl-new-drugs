@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "DDIMDL New Drugs"
+abstract: "Re-testing DDIMDL drug-drug interaction event prediction on drugs never seen in training"
+type: software
+authors:
+  - given-names: "Mohiraa"
+    family-names: "M"
+    email: "mohiraa.shafreen@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0001-8445-6317"
+repository-code: "https://github.com/mo-hi-raa/ddimdl-new-drugs"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
